@@ -1,0 +1,6 @@
+System.Runtime.InteropServices.COMException (0x800703FA): Retrieving the COM class factory for component with CLSID {82EAAE85-00A5-4FE1-8BA7-8DBBACCC6BEA} failed due to the following error: 800703fa Illegal operation attempted on a registry key that has been marked for deletion. (0x800703FA).
+   at System.RuntimeTypeHandle.AllocateComObject(Void* pClassFactory)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic, Boolean wrapExceptions)
+   at System.Activator.CreateInstance(Type type)
+   at x
